@@ -1,4 +1,4 @@
-name: wireguard_vpn
+name: flutter_wireguard_vpn
 description: A Flutter package that allows connection through a VPN using WireGuard.
 version: 0.0.1+3
 homepage: https://github.com/Wachu985/flutter_wireguard_vpn
